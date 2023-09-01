@@ -1,3 +1,11 @@
+# Abigail Jackson's First CS193 Homework
+
+## My favorite things about CS193
+- it is very informative 
+- it helps me be a better CS student
+- the course leads are very engaging
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
